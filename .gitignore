@@ -1,0 +1,9 @@
+vv/*
+*.pyc
+venv
+.history
+.idea
+*pycache
+.vscode
+.DS_Store
+*old
