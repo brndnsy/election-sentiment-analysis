@@ -1,10 +1,12 @@
 # Sentiment Analysis using ML
-This is a data science research project that endeavours to evaluate different ML techniques, using a labelled movie reviews dataset.
+An end-to-end data science project about 2019 UK General Election.  
 
-## Getting Started
+## Visualisation
+
+https://brndnsy.pythonanywhere.com
 
 
-### Prerequisites
+### Some Prerequisites
 
 * Python 3.7 (or later)
 * nltk
@@ -22,12 +24,6 @@ This is a data science research project that endeavours to evaluate different ML
 pip install -r requirements.txt
 python3 main.py
 ```
-
-
-
-### Versioning Strategy
-Semantic
-
 
 ## Authors
 
